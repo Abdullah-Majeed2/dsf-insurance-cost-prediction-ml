@@ -39,4 +39,11 @@ The full project report was submitted as part of coursework and contains detaile
 
 ---
 
+## Team Members 
+
+- Abdullah Majeed
+- Syed Turrab Haider
+
+---
+
 
